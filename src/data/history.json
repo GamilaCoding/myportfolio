@@ -1,0 +1,18 @@
+[
+  {
+    "role": "ReactJs Developer",
+    "organisation": "Freelancer",
+    "startDate": "Sept, 2022",
+    "endDate": "Present",
+    "experiences": ["Worked on digital Responsive and Progressive Websites "],
+    "imageSrc": "history/download.jpeg"
+  },
+  {
+    "role": "Software Engineer Intern",
+    "organisation": "ALX - africa",
+    "startDate": "Jul, 2023",
+    "endDate": "Present",
+    "experiences": ["Worked on Linux", "Designed projects"],
+    "imageSrc": "history/alxafrica_logo.jpeg"
+  }
+]

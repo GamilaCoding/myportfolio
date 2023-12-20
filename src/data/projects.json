@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Education Webpage",
+    "imageSrc": "projects/edcircle.png",
+    "description": "An effective education website landing page.",
+    "skills": ["ReactJs", "Tailwind CSS", "Next JS"],
+    "demo": "https://ed-circle-landpage.vercel.app/",
+    "source": ""
+  },
+  {
+    "title": "React Admin dashboard",
+    "imageSrc": "projects/dashboard.png",
+    "description": "You can make a profile and obtain information about pie charts.",
+    "skills": ["ReactJs", "Router", "MaterialUI"],
+    "demo": "https://react-admin-dashbord-liart.vercel.app/",
+    "source": "https://github.com/gameliaprogrammer/react-admin-dashbord"
+  },
+  {
+    "title": "E-commerce Nike",
+    "imageSrc": "projects/nike-store.png",
+    "description": "Built a stunning Nike Store website with a sleek and modern design.",
+    "skills": ["ReactJs", "DataJs", "Router", "Tailwind CSS"],
+    "demo": "https://nike-store-silk-mu.vercel.app/",
+    "source": "https://github.com/gameliaprogrammer/Nike_store"
+  },
+  {
+    "title": "Tech Company",
+    "imageSrc": "projects/tech.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["ReactJs", "AntDesign", "Node"],
+    "demo": "https://tech-company-tau.vercel.app/",
+    "source": "https://github.com/gameliaprogrammer/Tech-company-web"
+  },
+  {
+    "title": "Travel Website",
+    "imageSrc": "projects/travel.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["ReactJs", "JS", "Css"],
+    "demo": "https://travel-reactjs-two.vercel.app/",
+    "source": "https://github.com/gameliaprogrammer/travel-reactjs"
+  },
+  {
+    "title": "Bootstrap Temaplate",
+    "imageSrc": "projects/bootstrap.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["ReactJs", "DataJs", "Router", "Sass"],
+    "demo": "https://bootstrapwebsite-news.vercel.app/",
+    "source": "https://github.com/gameliaprogrammer/bootstrapwebsite-news"
+  }
+]
