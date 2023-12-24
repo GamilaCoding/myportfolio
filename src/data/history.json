@@ -1,17 +1,17 @@
 [
   {
     "role": "ReactJs Developer",
-    "organisation": "Freelancer",
-    "startDate": "Sept, 2022",
+    "organisation": "Upwork",
+    "startDate": "Sep, 2023",
     "endDate": "Present",
     "experiences": ["Worked on digital Responsive and Progressive Websites "],
-    "imageSrc": "history/download.jpeg"
+    "imageSrc": "history/upwork.jpg"
   },
   {
     "role": "Software Engineer Intern",
     "organisation": "ALX - africa",
     "startDate": "Jul, 2023",
-    "endDate": "Present",
+    "endDate": "Dec, 2023",
     "experiences": ["Worked on Linux", "Designed projects"],
     "imageSrc": "history/alxafrica_logo.jpeg"
   }
