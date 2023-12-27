@@ -33,10 +33,10 @@
   },
   {
     "title": "Agency Website landing",
-    "imgSrc": "projects/website-landing.png",
-    "discription": "this is landing page by css and html",
-    "demo": "https://angency-website.vercel.app/",
+    "imageSrc": "projects/website-landing.png",
+    "description": "this is landing page by css and html",
     "skills": ["Html", "Css"],
+    "demo": "https://angency-website.vercel.app/",
     "source": "https://github.com/gameliaprogrammer/angency-website",
   },
   {
