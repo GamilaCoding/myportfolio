@@ -33,7 +33,7 @@
   },
   {
     "title": "Agency Website landing",
-    "imgSrc": "projects/",
+    "imgSrc": "projects/website-landing.png",
     "discription": "this is landing page by css and html",
     "demo": "https://angency-website.vercel.app/",
     "skills": ["Html", "Css"],
