@@ -32,6 +32,14 @@
     "source": "https://github.com/gameliaprogrammer/Tech-company-web"
   },
   {
+    "title": "Agency Website landing",
+    "imgSrc": "projects/",
+    "discription": "this is landing page by css and html",
+    "demo": "https://angency-website.vercel.app/",
+    "skills": ["Html", "Css"],
+    "source": "https://github.com/gameliaprogrammer/angency-website",
+  },
+  {
     "title": "Travel Website",
     "imageSrc": "projects/travel.png",
     "description": "This is a project made to learn the latest languages by building an app.",
