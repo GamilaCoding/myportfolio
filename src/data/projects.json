@@ -34,10 +34,10 @@
   {
     "title": "Agency Website landing",
     "imageSrc": "projects/website-landing.png",
-    "description": "this is landing page by css and html",
-    "skills": ["Html", "Css"],
+    "description": "this is landing page by css and html.",
+    "skills": ["HTML", "JS", "Css"],
     "demo": "https://angency-website.vercel.app/",
-    "source": "https://github.com/gameliaprogrammer/angency-website",
+    "source": "https://github.com/gameliaprogrammer/angency-website"
   },
   {
     "title": "Travel Website",
