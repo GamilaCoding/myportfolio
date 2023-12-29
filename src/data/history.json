@@ -1,18 +1,18 @@
 [
   {
     "role": "ReactJs Developer",
+    "organisation": "Ideaytech",
+    "startDate": "Dec, 2022",
+    "endDate": "Present",
+    "experiences": ["Worked on digital Responsive and Progressive Websites "],
+    "imageSrc": ""
+  },
+  {
+    "role": "ReactJs Developer",
     "organisation": "Upwork",
     "startDate": "Sep, 2023",
     "endDate": "Present",
     "experiences": ["Worked on digital Responsive and Progressive Websites "],
     "imageSrc": "history/upwork.jpg"
   },
-  {
-    "role": "Software Engineer Intern",
-    "organisation": "ALX - africa",
-    "startDate": "Jul, 2023",
-    "endDate": "Dec, 2023",
-    "experiences": ["Worked on Linux", "Designed projects"],
-    "imageSrc": "history/alxafrica_logo.jpeg"
-  }
 ]
