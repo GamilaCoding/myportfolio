@@ -1,4 +1,12 @@
 [
+    {
+    "title": "Elzero-webpage",
+    "imageSrc": "projects/Elzero-webpage.png",
+    "description": "An responsive education blog website.",
+    "skills": ["Html", "CSS", "Java Script"],
+    "demo": "https://gameliaprogrammer.github.io/Elzero-webpage/",
+    "source": "https://github.com/gameliaprogrammer/Elzero-webpage"
+  },
   {
     "title": "Education Webpage",
     "imageSrc": "projects/edcircle.png",
