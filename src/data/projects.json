@@ -11,7 +11,7 @@
     "title": "Education Webpage",
     "imageSrc": "projects/edcircle.png",
     "description": "An effective education website landing page.",
-    "skills": ["ReactJs", "Tailwind CSS", "Next JS"],
+    "skills": ["React.js icons", "Tailwind CSS", "Next JS"],
     "demo": "https://ed-circle-landpage.vercel.app/",
     "source": ""
   },
