@@ -1,5 +1,13 @@
 [
     {
+    "title": "Project-Metaverse",
+    "imageSrc": "projects/shotofweb.png",
+    "description": "Next 13 Website With Framer Motion & Tailwind CSS.",
+    "skills": ["Next.Js", "Tailwind", "Framer Motion"],
+    "demo": "https://project-metaverse-ruby-tau.vercel.app/",
+    "source": "https://github.com/gameliaprogrammer/project-metaverse"
+  },
+    {
     "title": "Elzero-webpage",
     "imageSrc": "projects/Elzero-webpage.png",
     "description": "An responsive education blog website.",
